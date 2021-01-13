@@ -32,12 +32,17 @@
                 {
                     "principalId": "260a8df2-66a8-4cc2-aa6c-2991fff964af",
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-                    "principalIdDisplayName": "Modality LH Support Team"
+                    "principalIdDisplayName": "Modality Reader"
                 },
                 {
                     "principalId": "fc35cf8c-5762-42df-b084-25f57753bd73",
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
-                    "principalIdDisplayName": "Modality LH Escalation Teams"
+                    "principalIdDisplayName": "Modality Contributor"
+                },
+                {
+                    "principalId": "df9251f6-c87a-41b8-9d4b-bac58330ad89",
+                    "roleDefinitionId": "9980e02c-c2be-4d73-94e8-173b1dc7cf3c",
+                    "principalIdDisplayName": "Modality VM Contributor"
                 }
             ]
         }
